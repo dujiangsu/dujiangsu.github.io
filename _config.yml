@@ -286,6 +286,6 @@ compress_html:
     envs: development
 
 
----
-    excerpt_separator:<!--more-->
----
+
+excerpt_separator: <!--more-->
+
