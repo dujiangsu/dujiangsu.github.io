@@ -21,9 +21,11 @@ I am now a Ph.D. student at the Sun Yat-sen University.
 News
 =========
 
-**25 June 2021** Jointed Tencent Shanghai, Visualization Group, as a Research Intern, working on technical verification of GPU pooling.
+**25 June 2021** Jointed Tencent Shanghai, Visualization Group, as a Research Intern, working on technical verification of GPU pooling, mentored by [Song Jike](https://www.linkedin.com/in/albcamus/?originalSubdomain=cn) and Feng Kehuan.
 
+**25 Feb 2019** Visited Svalbard, what an amazing place.
 
+**1 Sept 2018** Started my Ph.D. at Sun Yat-sen University with Prof. [Xiangke Liao](https://www.cae.cn/cae/html/main/colys/68400379.html) and Prof. [Yunfei Du](https://baike.baidu.com/item/%E6%9D%9C%E4%BA%91%E9%A3%9E/23715232).
 
 Education
 =========
