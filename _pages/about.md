@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Jiangsu（江溯） Du（杜）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,29 @@ redirect_from:
   - /about.html
 ---
 
+I am now a Ph.D. student at the Sun Yat-sen University.
 
-I am Jiangsu Du.
+ [Technical Blog (Chinese)](https://www.zhihu.com/people/du-zi-long-84/posts) 
+
+<p>
+    <button id="btnShowEmail" onclick="targetField = document.getElementById('display'); btnShowEmail = document.getElementById('btnShowEmail'); var userName1 = 'dujs', domain1 = 'mail2.sysu.edu.cn', userName2 = 'dujiangsu', domain2 = '163.com'; var first=`SYSU Email: ${userName1}@${domain1}`;var second=`Permanent Email: ${userName2}@${domain2}`; targetField.innerHTML=second + '<br>' + first; btnShowEmail.style.display = 'none';">Show Email Addresses</button><br>
+<span id="display"></span>
+</p>
+
+
+News
+=========
+
+**25 June 2021** Jointed Tencent Shanghai, Visualization Group, as a Research Intern, working on technical verification of GPU pooling.
+
+
 
 Education
 =========
+
 - **B.Sc. in Spatial Information and Digital Technology,** Wuhan University, 2012.9 - 2016.7
 - **M.Sc in High Performance Computing and Data Science,**  The  University of Edinburgh && Edinburgh Parallel Computing Center, 2016.9 - 2017.9
+- **Visiting Scholar,** National University of Singapore. 2021.10.16-2022.09.16.(Planned)
 - **Ph.D in Computer Science,** Sun Yat-sen University && National SuperComputer Center in Guangzhou, 2018.9 - Now
 
 Publications
@@ -25,6 +41,7 @@ Publications
 2. Hongbo Li, **Jiangsu Du**, Yunfei Du, Zhiguang Chen, and Nong Xiao. P-SOBI: A Parallel Implementation for Second Order Blind Identification Algorithm. HPCC/SmartCity/DSS 2019: 1414-1420
 2. **Jiangsu Du**, Xin Zhu, Nan Hu, and Yunfei Du. "Understanding the Resource Demand Differences of Deep Neural Network Training". ICA3PP (2) 2019: 673-681
 
-Research Interest
-===============
+
+
+
 
