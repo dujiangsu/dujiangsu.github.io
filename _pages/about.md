@@ -10,7 +10,9 @@ redirect_from:
 
 I am now a Ph.D. student at the Sun Yat-sen University.
 
- [Technical Blog (Chinese)](https://www.zhihu.com/people/du-zi-long-84/posts) 
+ [Technical Blog (Chinese)](https://www.zhihu.com/column/c_1408504261072695297) 
+
+Travel VLOG (not yet)
 
 <p>
     <button id="btnShowEmail" onclick="targetField = document.getElementById('display'); btnShowEmail = document.getElementById('btnShowEmail'); var userName1 = 'dujs', domain1 = 'mail2.sysu.edu.cn', userName2 = 'dujiangsu', domain2 = '163.com'; var first=`SYSU Email: ${userName1}@${domain1}`;var second=`Permanent Email: ${userName2}@${domain2}`; targetField.innerHTML=second + '<br>' + first; btnShowEmail.style.display = 'none';">Show Email Addresses</button><br>
