@@ -46,6 +46,9 @@ Publications
 2. **Jiangsu Du**, Xin Zhu, Minghua Shen, Yunfei Du, Yutong Lu, Nong Xiao, and Xiangke Liao, "Model Parallelism Optimization for Distributed Inference via Decoupled CNN Structure", TPDS.
 2. Hongbo Li, **Jiangsu Du**, Yunfei Du, Zhiguang Chen, and Nong Xiao. P-SOBI: A Parallel Implementation for Second Order Blind Identification Algorithm. HPCC/SmartCity/DSS 2019: 1414-1420
 2. **Jiangsu Du**, Xin Zhu, Nan Hu, and Yunfei Du. "Understanding the Resource Demand Differences of Deep Neural Network Training". ICA3PP (2) 2019: 673-681
+3. **Jiangsu Du**, Dongsheng Li, Yingpeng Wen, Dan Huang, Yunfei Du, Xiangke Liao, and Yutong Lu, ”SAIH: A Scalable Evaluation Methodology for Understanding AI Performance Trend on HPC Systems”, JCST, 2021.
+4. **Jiangsu Du**, Jiazhi Jiang, Yang You, Dan Huang, Yutong Lu, ”Handling Heavy-tailed Input of Transformer Inference on GPUs”, ICS, 2022.
+5. **Jiangsu Du**, Yunfei Du, Dan Huang, Yutong Lu, Xiangke Liao, ”Enhancing distributed in-situ CNN inference in the Internet of Things”, IOTJ, 2022.
 
 
 
