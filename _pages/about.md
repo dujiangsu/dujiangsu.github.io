@@ -25,7 +25,7 @@ News
 
 **19 Oct 2021** Started visiting scholar at the University of Singapore with Prof. [Yang You](https://www.comp.nus.edu.sg/cs/bio/youy/).
 
-**19 Oct 2021** Joined [LuChen](https://www.luchentech.com/) as a Research Intern, cooperating with Jiarui Fang, Shenggui Li, Shenggan Cheng, and Ziming Liu.
+**19 Oct 2021** Joined [LuChen](https://www.luchentech.com/) as a Research Intern, leading the large-scale Model Inference Project, [EnergonAI](https://github.com/hpcaitech/EnergonAI), cooperating with Jiarui Fang, Shenggui Li, Shenggan Cheng, and Ziming Liu.
 
 **25 June 2021** Joined Tencent Shanghai, Visualization Group, as a Research Intern, working on technical verification of GPU pooling, mentored by [Song Jike](https://www.linkedin.com/in/albcamus/?originalSubdomain=cn) and Feng Kehuan.
 
@@ -51,7 +51,7 @@ Publications
 5. **Jiangsu Du**, Dongsheng Li, Yingpeng Wen, Dan Huang, Yunfei Du, Xiangke Liao, and Yutong Lu, "SAIH: A Scalable Evaluation Methodology for Understanding AI Performance Trend on HPC Systems", JCST, 2021.
 6. **Jiangsu Du**, Jiazhi Jiang, Yang You, Dan Huang, Yutong Lu, "Handling Heavy-tailed Input of Transformer Inference on GPUs", ICS, 2022.
 7. **Jiangsu Du**, Yunfei Du, Dan Huang, Yutong Lu, Xiangke Liao, "Enhancing distributed in-situ CNN inference in the Internet of Things", IOTJ, 2022.
-8. Jiangjia Zhi, **Jiangsu Du**, Dan Huang, Dongsheng Li, Jiang Zheng, Yutong Lu, "Characterizing and Optimizing Transformer Inference on ARM Many-core Processor", ICPP, 2022.
+8. Jiazhi Jiang, **Jiangsu Du**, Dan Huang, Dongsheng Li, Jiang Zheng, Yutong Lu, "Characterizing and Optimizing Transformer Inference on ARM Many-core Processor", ICPP, 2022.
 
 
 
