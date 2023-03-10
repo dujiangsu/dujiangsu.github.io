@@ -40,7 +40,7 @@ Education
 
 - **B.Sc. in Spatial Information and Digital Technology,** Wuhan University, 2012.9 - 2016.7
 - **M.Sc in High Performance Computing and Data Science,**  The  University of Edinburgh && Edinburgh Parallel Computing Center, 2016.9 - 2017.9
-- **Visiting Scholar,** National University of Singapore. 2021.10.17-2022.10.16.
+- **Visiting Scholar,** National University of Singapore && HPC-AI lab. 2021.10.17-2022.10.16.
 - **Ph.D in Computer Science,** Sun Yat-sen University && National SuperComputer Center in Guangzhou, 2018.9 - 2022.12
 
 Publications
