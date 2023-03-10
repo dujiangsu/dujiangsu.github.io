@@ -57,4 +57,7 @@ Publications
 9. Jiazhi Jiang, Dan Huang, **Jiangsu Du**, Yutong Lu, Xiangke Liao, "Optimizing small channel 3D convolution on GPU with tensor core", PARCO, 2022.
 
 
-# Professional Service:
+ Professional Service
+===========
+- Program committee: HiPC'22.
+- Reviewer: CCGRID'23, IOTJ.
