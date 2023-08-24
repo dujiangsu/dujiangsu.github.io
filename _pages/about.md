@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a PostDoc at the Sun Yat-sen University, working on distributed artificial intelligence system.
+I am now a PostDoc at the Sun Yat-sen University, working on High Performance Computing, and Distributed Artificial Intelligence System.
 
 [Technical Blog (Chinese)](https://www.zhihu.com/column/c_1408504261072695297) 
 
@@ -23,7 +23,7 @@ I am now a PostDoc at the Sun Yat-sen University, working on distributed artific
 News
 =========
 
-**06 Feb 2023** Started PostDoc at the Sun Yat-sen University with Prof. [Yutong Lu](https://baike.baidu.com/link?url=fcpCKn80OKYp5P7NydFvZux6Qq4MJGxKiByJ3QxbWjSHuuKimoERoOag4PT4f9vEfbgXHRXibHIko2r7wv2TiL_qes9_HtkgIBIXNFM-tZsBx-0uvjAcbLcuhFWeNX_S). I can never imagine I would choose this track when I started my Ph.D. Go big? No. Go Home, haha!
+**06 Feb 2023** Started PostDoc at the Sun Yat-sen University with Prof. [Yutong Lu](https://baike.baidu.com/link?url=fcpCKn80OKYp5P7NydFvZux6Qq4MJGxKiByJ3QxbWjSHuuKimoERoOag4PT4f9vEfbgXHRXibHIko2r7wv2TiL_qes9_HtkgIBIXNFM-tZsBx-0uvjAcbLcuhFWeNX_S).
 
 **19 Oct 2021** Started visiting scholar at the University of Singapore with Prof. [Yang You](https://www.comp.nus.edu.sg/cs/bio/youy/).
 
@@ -55,6 +55,8 @@ Publications
 7. **Jiangsu Du**, Yunfei Du, Dan Huang, Yutong Lu, Xiangke Liao, "Enhancing distributed in-situ CNN inference in the Internet of Things", IOTJ, 2022.
 8. Jiazhi Jiang, **Jiangsu Du**, Dan Huang, Dongsheng Li, Jiang Zheng, Yutong Lu, "Characterizing and Optimizing Transformer Inference on ARM Many-core Processor", ICPP, 2022.
 9. Jiazhi Jiang, Dan Huang, **Jiangsu Du**, Yutong Lu, Xiangke Liao, "Optimizing small channel 3D convolution on GPU with tensor core", PARCO, 2022.
+10. Jiazhi Jiang, Jiangsu Du, Dan Huang, Zhiguang Chen, Yutong Lu, Xiangke Liao, "Full-Stack Optimizing Transformer Inference on ARM Many-Core CPU", TPDS, 2023.
+11. **Jiangsu Du**, Jiazhi Jiang, Jiang Zheng, Hongbin Zhang, Dan Huang, Yutong Lu, "Improving Computation and Memory Efficiency for Real-world Transformer Inference on GPUs", TACO, 2023.
 
 
  Professional Service
