@@ -55,7 +55,7 @@ Publications
 7. **Jiangsu Du**, Yunfei Du, Dan Huang, Yutong Lu, Xiangke Liao, "Enhancing distributed in-situ CNN inference in the Internet of Things", IOTJ, 2022.
 8. Jiazhi Jiang, **Jiangsu Du**, Dan Huang, Dongsheng Li, Jiang Zheng, Yutong Lu, "Characterizing and Optimizing Transformer Inference on ARM Many-core Processor", ICPP, 2022.
 9. Jiazhi Jiang, Dan Huang, **Jiangsu Du**, Yutong Lu, Xiangke Liao, "Optimizing small channel 3D convolution on GPU with tensor core", PARCO, 2022.
-10. Jiazhi Jiang, Jiangsu Du, Dan Huang, Zhiguang Chen, Yutong Lu, Xiangke Liao, "Full-Stack Optimizing Transformer Inference on ARM Many-Core CPU", TPDS, 2023.
+10. Jiazhi Jiang, **Jiangsu Du**, Dan Huang, Zhiguang Chen, Yutong Lu, Xiangke Liao, "Full-Stack Optimizing Transformer Inference on ARM Many-Core CPU", TPDS, 2023.
 11. **Jiangsu Du**, Jiazhi Jiang, Jiang Zheng, Hongbin Zhang, Dan Huang, Yutong Lu, "Improving Computation and Memory Efficiency for Real-world Transformer Inference on GPUs", TACO, 2023.
 
 
