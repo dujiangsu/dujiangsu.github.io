@@ -45,9 +45,9 @@ Education
 Selected Publications
 ===========
 1. **Jiangsu Du**, Jinhui Wei, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, "Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference", PPoPP, 2024.
-2. Shengyuan Ye, **Jiangsu Du***, Liekang Zeng, Wenzhong Ou, Xiaowen Chu, Yutong Lu, Xu Chen*, "Galaxy: A Resource-Efficient Collaborative Edge AI System for In-situ Transformer Inference", INFOCOM, 2024.
+2. Shengyuan Ye, **Jiangsu Du\***, Liekang Zeng, Wenzhong Ou, Xiaowen Chu, Yutong Lu, Xu Chen\*, "Galaxy: A Resource-Efficient Collaborative Edge AI System for In-situ Transformer Inference", INFOCOM, 2024.
 3. **Jiangsu Du**, Jiazhi Jiang, Yang You, Dan Huang, Yutong Lu, "Handling Heavy-tailed Input of Transformer Inference on GPUs", ICS, 2022.
-4. Yuanxin Wei, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang*, **Jiangsu Du***, Yutong Lu, "Communication-Efficient Model Parallelism for Distributed In-situ Transformer Inference", DATE, 2024.
+4. Yuanxin Wei, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang\*, **Jiangsu Du\***, Yutong Lu, "Communication-Efficient Model Parallelism for Distributed In-situ Transformer Inference", DATE, 2024.
 5. **Jiangsu Du**, Xin Zhu, Minghua Shen, Yunfei Du, Yutong Lu, Nong Xiao, and Xiangke Liao, "Model Parallelism Optimization for Distributed Inference via Decoupled CNN Structure", TPDS.
 6. **Jiangsu Du**, Jiazhi Jiang, Jiang Zheng, Hongbin Zhang, Dan Huang, Yutong Lu, "Improving Computation and Memory Efficiency for Real-world Transformer Inference on GPUs", TACO, 2023.
 7. **Jiangsu Du**, Minghua Shen, Yunfei Du. "A Distributed In-Situ CNN Inference System forIoT Applications", ICCD 2020.
