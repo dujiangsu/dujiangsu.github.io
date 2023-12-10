@@ -53,7 +53,7 @@ Selected Publications
 7. **Jiangsu Du**, Minghua Shen, Yunfei Du. "A Distributed In-Situ CNN Inference System forIoT Applications", ICCD 2020.
 8. Jiazhi Jiang, **Jiangsu Du**, Dan Huang, Zhiguang Chen, Yutong Lu, Xiangke Liao, "Full-Stack Optimizing Transformer Inference on ARM Many-Core CPU", TPDS, 2023.
 
-![Google Scholar](https://scholar.google.com/citations?user=GayKRzEAAAAJ&hl=en&oi=ao)
+[Google Scholar](https://scholar.google.com/citations?user=GayKRzEAAAAJ&hl=en&oi=ao)
 
  Professional Service
 ===========
