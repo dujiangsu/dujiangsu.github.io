@@ -37,27 +37,23 @@ News
 
 Education
 =========
-
-- **B.Sc. in Spatial Information and Digital Technology,** Wuhan University, 2012.9 - 2016.7
-- **M.Sc in High Performance Computing and Data Science,**  The  University of Edinburgh && Edinburgh Parallel Computing Center, 2016.9 - 2017.9
-- **Visiting Scholar,** National University of Singapore && HPC-AI lab. 2021.10.17-2022.10.16.
 - **Ph.D in Computer Science,** Sun Yat-sen University && National SuperComputer Center in Guangzhou, 2018.9 - 2022.12
+- **Visiting Scholar,** National University of Singapore && HPC-AI lab. 2021.10.17-2022.10.16.
+- **M.Sc in High Performance Computing and Data Science,**  The  University of Edinburgh && Edinburgh Parallel Computing Center, 2016.9 - 2017.9
+- **B.Sc. in Spatial Information and Digital Technology,** Wuhan University, 2012.9 - 2016.7
 
-Publications
+Selected Publications
 ===========
+1. **Jiangsu Du**, Jinhui Wei, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, "Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference", PPoPP, 2024.
+2. Shengyuan Ye, **Jiangsu Du***, Liekang Zeng, Wenzhong Ou, Xiaowen Chu, Yutong Lu, Xu Chen*, "Galaxy: A Resource-Efficient Collaborative Edge AI System for In-situ Transformer Inference", INFOCOM, 2024.
+3. **Jiangsu Du**, Jiazhi Jiang, Yang You, Dan Huang, Yutong Lu, "Handling Heavy-tailed Input of Transformer Inference on GPUs", ICS, 2022.
+4. Yuanxin Wei, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang*, **Jiangsu Du***, Yutong Lu, "Communication-Efficient Model Parallelism for Distributed In-situ Transformer Inference", DATE, 2024.
+5. **Jiangsu Du**, Xin Zhu, Minghua Shen, Yunfei Du, Yutong Lu, Nong Xiao, and Xiangke Liao, "Model Parallelism Optimization for Distributed Inference via Decoupled CNN Structure", TPDS.
+6. **Jiangsu Du**, Jiazhi Jiang, Jiang Zheng, Hongbin Zhang, Dan Huang, Yutong Lu, "Improving Computation and Memory Efficiency for Real-world Transformer Inference on GPUs", TACO, 2023.
+7. **Jiangsu Du**, Minghua Shen, Yunfei Du. "A Distributed In-Situ CNN Inference System forIoT Applications", ICCD 2020.
+8. Jiazhi Jiang, **Jiangsu Du**, Dan Huang, Zhiguang Chen, Yutong Lu, Xiangke Liao, "Full-Stack Optimizing Transformer Inference on ARM Many-Core CPU", TPDS, 2023.
 
-1. **Jiangsu Du**, Minghua Shen, Yunfei Du. "A Distributed In-Situ CNN Inference System forIoT Applications", ICCD 2020.
-2. **Jiangsu Du**, Xin Zhu, Minghua Shen, Yunfei Du, Yutong Lu, Nong Xiao, and Xiangke Liao, "Model Parallelism Optimization for Distributed Inference via Decoupled CNN Structure", TPDS.
-3. Hongbo Li, **Jiangsu Du**, Yunfei Du, Zhiguang Chen, and Nong Xiao. P-SOBI: A Parallel Implementation for Second Order Blind Identification Algorithm. HPCC/SmartCity/DSS 2019: 1414-1420
-4. **Jiangsu Du**, Xin Zhu, Nan Hu, and Yunfei Du. "Understanding the Resource Demand Differences of Deep Neural Network Training". ICA3PP (2) 2019: 673-681
-5. **Jiangsu Du**, Dongsheng Li, Yingpeng Wen, Dan Huang, Yunfei Du, Xiangke Liao, and Yutong Lu, "SAIH: A Scalable Evaluation Methodology for Understanding AI Performance Trend on HPC Systems", JCST, 2021.
-6. **Jiangsu Du**, Jiazhi Jiang, Yang You, Dan Huang, Yutong Lu, "Handling Heavy-tailed Input of Transformer Inference on GPUs", ICS, 2022.
-7. **Jiangsu Du**, Yunfei Du, Dan Huang, Yutong Lu, Xiangke Liao, "Enhancing distributed in-situ CNN inference in the Internet of Things", IOTJ, 2022.
-8. Jiazhi Jiang, **Jiangsu Du**, Dan Huang, Dongsheng Li, Jiang Zheng, Yutong Lu, "Characterizing and Optimizing Transformer Inference on ARM Many-core Processor", ICPP, 2022.
-9. Jiazhi Jiang, Dan Huang, **Jiangsu Du**, Yutong Lu, Xiangke Liao, "Optimizing small channel 3D convolution on GPU with tensor core", PARCO, 2022.
-10. Jiazhi Jiang, **Jiangsu Du**, Dan Huang, Zhiguang Chen, Yutong Lu, Xiangke Liao, "Full-Stack Optimizing Transformer Inference on ARM Many-Core CPU", TPDS, 2023.
-11. **Jiangsu Du**, Jiazhi Jiang, Jiang Zheng, Hongbin Zhang, Dan Huang, Yutong Lu, "Improving Computation and Memory Efficiency for Real-world Transformer Inference on GPUs", TACO, 2023.
-
+![Google Scholar](https://scholar.google.com/citations?user=GayKRzEAAAAJ&hl=en&oi=ao)
 
  Professional Service
 ===========
