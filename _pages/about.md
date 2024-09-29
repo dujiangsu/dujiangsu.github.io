@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a PostDoc at the Sun Yat-sen University, working on High Performance Computing, and Distributed Artificial Intelligence System.
+I am now a PostDoc at the Sun Yat-sen University, working on High Performance Computing, and Efficient AI System.
 
 [Technical Blog (Chinese)](https://www.zhihu.com/column/c_1408504261072695297) 
 
@@ -22,18 +22,21 @@ I am now a PostDoc at the Sun Yat-sen University, working on High Performance Co
 
 News
 =========
+[2024-04] One Paper accepted for SC 2024, congratulations to [Yuanxin Wei](https://yuanxinnn.github.io/)!
 
-**06 Feb 2023** Started PostDoc at the Sun Yat-sen University with Prof. [Yutong Lu](https://baike.baidu.com/link?url=fcpCKn80OKYp5P7NydFvZux6Qq4MJGxKiByJ3QxbWjSHuuKimoERoOag4PT4f9vEfbgXHRXibHIko2r7wv2TiL_qes9_HtkgIBIXNFM-tZsBx-0uvjAcbLcuhFWeNX_S).
+[2023-11] One Paper accepted for PPoPP 2023.
 
-**19 Oct 2021** Started visiting scholar at the University of Singapore with Prof. [Yang You](https://www.comp.nus.edu.sg/cs/bio/youy/).
+[2023-02] Started PostDoc at the Sun Yat-sen University with Prof. [Yutong Lu](https://baike.baidu.com/link?url=fcpCKn80OKYp5P7NydFvZux6Qq4MJGxKiByJ3QxbWjSHuuKimoERoOag4PT4f9vEfbgXHRXibHIko2r7wv2TiL_qes9_HtkgIBIXNFM-tZsBx-0uvjAcbLcuhFWeNX_S).
 
-**19 Oct 2021** Joined [LuChen](https://www.luchentech.com/) as a Research Intern, leading the large-scale Model Inference Project, [EnergonAI](https://github.com/hpcaitech/EnergonAI), cooperating with Jiarui Fang, Shenggan Cheng, and Ziming Liu.
+[2021-10] Started visiting scholar at the University of Singapore with Prof. [Yang You](https://www.comp.nus.edu.sg/cs/bio/youy/).
 
-**25 June 2021** Joined Tencent Shanghai, Visualization Group, as a Research Intern, working on technical verification of GPU pooling, mentored by [Song Jike](https://www.linkedin.com/in/albcamus/?originalSubdomain=cn) and Feng Kehuan.
+[2021-10] Joined [LuChen](https://www.luchentech.com/) as a Research Intern, leading the large-scale Model Inference Project, [EnergonAI](https://github.com/hpcaitech/EnergonAI), cooperating with Jiarui Fang, Shenggan Cheng, and Ziming Liu.
 
-**25 Feb 2019** Visited Svalbard, what an amazing place.
+[2021-06] Joined Tencent Shanghai, Visualization Group, as a Research Intern, working on technical verification of GPU pooling, mentored by [Song Jike](https://www.linkedin.com/in/albcamus/?originalSubdomain=cn) and Feng Kehuan.
 
-**1 Sept 2018** Started my Ph.D. at Sun Yat-sen University with Prof. [Xiangke Liao](https://www.cae.cn/cae/html/main/colys/68400379.html) and Prof. [Yunfei Du](https://baike.baidu.com/item/%E6%9D%9C%E4%BA%91%E9%A3%9E/23715232).
+[2019-02] Visited Svalbard, what an amazing place.
+
+[2018-09] Started my Ph.D. at Sun Yat-sen University with Prof. [Xiangke Liao](https://www.cae.cn/cae/html/main/colys/68400379.html) and Prof. [Yunfei Du](https://baike.baidu.com/item/%E6%9D%9C%E4%BA%91%E9%A3%9E/23715232).
 
 Education
 =========
