@@ -7,19 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am now a PostDoc at the Sun Yat-sen University, working on High Performance Computing, and Efficient AI System.
-
-[Technical Blog (Chinese)](https://www.zhihu.com/column/c_1408504261072695297) 
-
-[Travel Vlog](https://space.bilibili.com/480041276)
+Hi, I am currently a postdoctoral research fellow at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), working on High Performance Computing, and Efficient AI System. You can find my [Technical Blog (Chinese)](https://www.zhihu.com/column/c_1408504261072695297) and [Travel Vlog](https://space.bilibili.com/480041276).
 
 <p>
     <button id="btnShowEmail" onclick="targetField = document.getElementById('display'); btnShowEmail = document.getElementById('btnShowEmail'); var userName1 = 'dujiangsu', domain1 = 'mail.sysu.edu.cn', userName2 = 'dujiangsu', domain2 = '163.com'; var first=`SYSU Email: ${userName1}@${domain1}`;var second=`Permanent Email: ${userName2}@${domain2}`; targetField.innerHTML=second + '<br>' + first; btnShowEmail.style.display = 'none';">Show Email Addresses</button><br>
 <span id="display"></span>
 </p>
 
+## :school: Education
+=========
+- **Ph.D in Computer Science,** Sun Yat-sen University && National SuperComputer Center in Guangzhou.
+- **Visiting Scholar,** National University of Singapore && HPC-AI lab. 
+- **M.Sc in High Performance Computing and Data Science,**  The  University of Edinburgh && Edinburgh Parallel Computing Center.
+- **B.Sc. in Spatial Information and Digital Technology,** Wuhan University.
 
-News
+## :fire: News
 =========
 [2024-04] One Paper accepted for SC 2024, congratulations to [Yuanxin Wei](https://yuanxinnn.github.io/)!
 
@@ -37,14 +39,9 @@ News
 
 [2018-09] Started my Ph.D. at Sun Yat-sen University with Prof. [Xiangke Liao](https://www.cae.cn/cae/html/main/colys/68400379.html) and Prof. [Yunfei Du](https://baike.baidu.com/item/%E6%9D%9C%E4%BA%91%E9%A3%9E/23715232).
 
-Education
-=========
-- **Ph.D in Computer Science,** Sun Yat-sen University && National SuperComputer Center in Guangzhou, 2018.9 - 2022.12
-- **Visiting Scholar,** National University of Singapore && HPC-AI lab. 2021.10.17-2022.10.16.
-- **M.Sc in High Performance Computing and Data Science,**  The  University of Edinburgh && Edinburgh Parallel Computing Center, 2016.9 - 2017.9
-- **B.Sc. in Spatial Information and Digital Technology,** Wuhan University, 2012.9 - 2016.7
 
-Selected Publications
+
+## :blue_book: Selected Publications
 ===========
 1. **Jiangsu Du**, Jinhui Wei, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, "Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference", PPoPP, 2024.
 2. Shengyuan Ye, **Jiangsu Du\***, Liekang Zeng, Wenzhong Ou, Xiaowen Chu, Yutong Lu, Xu Chen\*, "Galaxy: A Resource-Efficient Collaborative Edge AI System for In-situ Transformer Inference", INFOCOM, 2024.
@@ -57,7 +54,6 @@ Selected Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=GayKRzEAAAAJ&hl=en&oi=ao)
 
- Professional Service
-===========
+## "newspaper" Professional Service
 - Program committee: HiPC'22.
 - Reviewer: CCGRID'23, IOTJ.
