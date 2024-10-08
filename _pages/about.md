@@ -15,14 +15,14 @@ Hi, I am currently a postdoctoral research fellow at [Sun Yat-sen University](ht
 </p>
 
 ## :school: Education
-=========
+
 - **Ph.D in Computer Science,** Sun Yat-sen University && National SuperComputer Center in Guangzhou.
 - **Visiting Scholar,** National University of Singapore && HPC-AI lab. 
 - **M.Sc in High Performance Computing and Data Science,**  The  University of Edinburgh && Edinburgh Parallel Computing Center.
 - **B.Sc. in Spatial Information and Digital Technology,** Wuhan University.
 
 ## :fire: News
-=========
+
 [2024-04] One Paper accepted for SC 2024, congratulations to [Yuanxin Wei](https://yuanxinnn.github.io/)!
 
 [2023-11] One Paper accepted for PPoPP 2023.
@@ -42,7 +42,7 @@ Hi, I am currently a postdoctoral research fellow at [Sun Yat-sen University](ht
 
 
 ## :blue_book: Selected Publications
-===========
+
 1. **Jiangsu Du**, Jinhui Wei, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, "Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference", PPoPP, 2024.
 2. Shengyuan Ye, **Jiangsu Du\***, Liekang Zeng, Wenzhong Ou, Xiaowen Chu, Yutong Lu, Xu Chen\*, "Galaxy: A Resource-Efficient Collaborative Edge AI System for In-situ Transformer Inference", INFOCOM, 2024.
 3. **Jiangsu Du**, Jiazhi Jiang, Yang You, Dan Huang, Yutong Lu, "Handling Heavy-tailed Input of Transformer Inference on GPUs", ICS, 2022.
