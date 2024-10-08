@@ -47,6 +47,6 @@ Hi, I am currently a postdoctoral research fellow at [Sun Yat-sen University](ht
 
 [Google Scholar](https://scholar.google.com/citations?user=GayKRzEAAAAJ&hl=en&oi=ao)
 
-## "newspaper" Professional Service
+## :newspaper: Professional Service
 - Program committee: HiPC'22.
 - Reviewer: CCGRID'23, IOTJ.
