@@ -16,9 +16,9 @@ Hi, I am currently a postdoctoral research fellow at [Sun Yat-sen University](ht
 
 ## :school: Education
 
-- Ph.D in Computer Science, Sun Yat-sen University && National SuperComputer Center in Guangzhou.
-- Visiting Scholar, National University of Singapore && HPC-AI lab. 
-- M.Sc in High Performance Computing and Data Science, The  University of Edinburgh && Edinburgh Parallel Computing Center.
+- Ph.D in Computer Science, Sun Yat-sen University (National SuperComputer Center in Guangzhou).
+- Visiting Scholar, National University of Singapore (HPC-AI lab). 
+- M.Sc in High Performance Computing and Data Science, The  University of Edinburgh (Edinburgh Parallel Computing Center).
 - B.Sc. in Spatial Information and Digital Technology, Wuhan University.
 
 ## :fire: News
