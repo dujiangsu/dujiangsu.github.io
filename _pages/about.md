@@ -28,7 +28,7 @@ You can find my email address by clicking this button:
 ## :fire: News
 
 - [2024-04] One Paper accepted for SC 2024, congratulations to [Yuanxin Wei](https://yuanxinnn.github.io/)!
-- [2023-11] One Paper accepted for PPoPP 2023.
+- [2023-11] One Paper accepted for PPoPP 2024.
 - [2023-02] Started PostDoc at the Sun Yat-sen University with Prof. [Yutong Lu](https://baike.baidu.com/link?url=fcpCKn80OKYp5P7NydFvZux6Qq4MJGxKiByJ3QxbWjSHuuKimoERoOag4PT4f9vEfbgXHRXibHIko2r7wv2TiL_qes9_HtkgIBIXNFM-tZsBx-0uvjAcbLcuhFWeNX_S).
 - [2021-10] Started visiting scholar at the University of Singapore with Prof. [Yang You](https://www.comp.nus.edu.sg/cs/bio/youy/).
 - [2021-10] Joined [LuChen](https://www.luchentech.com/) as a Research Intern, leading the large-scale Model Inference Project, [EnergonAI](https://github.com/hpcaitech/EnergonAI), cooperating with Jiarui Fang, Shenggan Cheng, and Ziming Liu.
