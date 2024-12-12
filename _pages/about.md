@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently a postdoctoral research fellow at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), working on High Performance Computing, and Efficient ML Inference/Training System. 
+Hi, I am currently a postdoctoral research fellow at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), advised by [Yutong Lu](https://baike.baidu.com/link?url=fcpCKn80OKYp5P7NydFvZux6Qq4MJGxKiByJ3QxbWjSHuuKimoERoOag4PT4f9vEfbgXHRXibHIko2r7wv2TiL_qes9_HtkgIBIXNFM-tZsBx-0uvjAcbLcuhFWeNX_S). My current research mainly focuses on Scalable and Efficient ML Inference/Training System through optimizing hardware operator, algorithm design, task scheduling, and resource management.
 
 <!-- You can find my [Technical Blog (Chinese)](https://www.zhihu.com/column/c_1408504261072695297) and [Travel Vlog](https://space.bilibili.com/480041276). -->
 
@@ -20,8 +20,8 @@ You can find my email address by clicking this button:
 
 ## :school: Education
 
-- Ph.D in Computer Science, Sun Yat-sen University (National SuperComputer Center in Guangzhou).
-- Visiting Scholar, National University of Singapore (HPC-AI lab). 
+- Ph.D in Computer Science, Sun Yat-sen University (National SuperComputer Center in Guangzhou), advised by [Xiangke Liao](https://www.cae.cn/cae/html/main/colys/68400379.html) and [Yunfei Du](https://baike.baidu.com/item/%E6%9D%9C%E4%BA%91%E9%A3%9E/23715232).
+- Visiting Scholar, National University of Singapore (HPC-AI lab), advised by [Yang You](https://www.comp.nus.edu.sg/cs/bio/youy/). 
 - M.Sc in High Performance Computing and Data Science, The  University of Edinburgh (Edinburgh Parallel Computing Center).
 - B.Sc. in Spatial Information and Digital Technology, Wuhan University.
 
@@ -29,14 +29,9 @@ You can find my email address by clicking this button:
 - [2024-10] One Paper accepted for ASPLOS 2025, congratulations to [Shenggan Cheng](https://shenggan.github.io/)!
 - [2024-04] One Paper accepted for SC 2024, congratulations to [Yuanxin Wei](https://yuanxinnn.github.io/)!
 - [2023-11] One Paper accepted for PPoPP 2024.
-- [2023-02] Started PostDoc at the Sun Yat-sen University with Prof. [Yutong Lu](https://baike.baidu.com/link?url=fcpCKn80OKYp5P7NydFvZux6Qq4MJGxKiByJ3QxbWjSHuuKimoERoOag4PT4f9vEfbgXHRXibHIko2r7wv2TiL_qes9_HtkgIBIXNFM-tZsBx-0uvjAcbLcuhFWeNX_S).
-- [2021-10] Started visiting scholar at the University of Singapore with Prof. [Yang You](https://www.comp.nus.edu.sg/cs/bio/youy/).
 - [2021-10] Joined [LuChen](https://www.luchentech.com/) as a Research Intern, leading the large-scale Model Inference Project, [EnergonAI](https://github.com/hpcaitech/EnergonAI), cooperating with Jiarui Fang, Shenggan Cheng, and Ziming Liu.
 - [2021-06] Joined Tencent Shanghai, Visualization Group, as a Research Intern, working on technical verification of GPU pooling, mentored by [Song Jike](https://www.linkedin.com/in/albcamus/?originalSubdomain=cn) and Feng Kehuan.
 - [2019-02] Visited Svalbard, what an amazing place.
-- [2018-09] Started my Ph.D. at Sun Yat-sen University with Prof. [Xiangke Liao](https://www.cae.cn/cae/html/main/colys/68400379.html) and Prof. [Yunfei Du](https://baike.baidu.com/item/%E6%9D%9C%E4%BA%91%E9%A3%9E/23715232).
-
-
 
 ## :blue_book: Selected Publications
 
