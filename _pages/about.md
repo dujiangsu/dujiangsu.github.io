@@ -26,6 +26,7 @@ You can find my email address by clicking this button:
 - B.Sc. in Spatial Information and Digital Technology, Wuhan University.
 
 ## :fire: News
+- [2025-01] One Paper Accepted For WWW 2025, congratulations to [Yuhao Gu](https://yhgu2000.github.io/).
 - [2024-12] One Paper Accepted For TPDS.
 - [2024-12] One Paper accepted for VLDB 2025, congratulations to [Qingyin Lin](https://scholar.google.com/citations?user=Vl90jLIAAAAJ&hl=zh-CN), and many thanks to Zhiguang Chen!
 - [2024-10] One Paper accepted for ASPLOS 2025, congratulations to [Shenggan Cheng](https://shenggan.github.io/)!
@@ -38,7 +39,7 @@ You can find my email address by clicking this button:
 ## :blue_book: Selected Publications
 
 #### Conference Publications
-
+- **[WWW 2025]** Yuhao Gu, Junyu Chen, Jiangsu Du, Xiaoxi Zhang, and Xianwei Zhang, "ORFA: A WebAssembly-based Runtime to Optimize Remote Procedure Calls with Complete Expressiveness".
 - **[VLDB 2025]** Qingyin Lin, Jiangsu Du，Rui Li, Zhiguang Chen, Wenguang Chen, and Nong Xiao, "IncrCP: Decomposing and Orchestrating Incremental Checkpoints for Effective Recommendation Model Training".
 - **[ASPLOS 2025]** Shenggan Cheng, Shengjie Lin, Lansong Diao, Hao Wu, Siyu Wang, Chang Si, Ziming Liu, Xuanlei Zhao, Jiangsu Du, Wei Lin, and Yang You, "Concerto: Automatic Communication Optimization and Scheduling for Large-Scale Deep Learning".
 - **[PPoPP 2024]** Jiangsu Du, Jinhui Wei, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, "Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference".
