@@ -21,14 +21,14 @@ You can find my email address by clicking this button:
 ## :school: Education
 
 - Ph.D in Computer Science, Sun Yat-sen University (National SuperComputer Center in Guangzhou), advised by [Xiangke Liao](https://www.cae.cn/cae/html/main/colys/68400379.html) and [Yunfei Du](https://baike.baidu.com/item/%E6%9D%9C%E4%BA%91%E9%A3%9E/23715232).
-- Visiting Scholar, National University of Singapore (HPC-AI lab), advised by [Yang You](https://www.comp.nus.edu.sg/cs/bio/youy/). 
+- Visiting Scholar, National University of Singapore. 
 - M.Sc in High Performance Computing and Data Science, The  University of Edinburgh (Edinburgh Parallel Computing Center).
 - B.Sc. in Spatial Information and Digital Technology, Wuhan University.
 
 ## :fire: News
 - [2025-01] One Paper Accepted For WWW 2025, congratulations to [Yuhao Gu](https://yhgu2000.github.io/).
 - [2024-12] One Paper Accepted For TPDS.
-- [2024-12] One Paper accepted for VLDB 2025, congratulations to [Qingyin Lin](https://scholar.google.com/citations?user=Vl90jLIAAAAJ&hl=zh-CN), and many thanks to Zhiguang Chen!
+- [2024-12] One Paper accepted for VLDB 2025, congratulations to [Qingyin Lin](https://linqy71.github.io), and many thanks to Zhiguang Chen!
 - [2024-10] One Paper accepted for ASPLOS 2025, congratulations to [Shenggan Cheng](https://shenggan.github.io/)!
 - [2024-04] One Paper accepted for SC 2024, congratulations to [Yuanxin Wei](https://yuanxinnn.github.io/)!
 - [2023-11] One Paper accepted for PPoPP 2024.
