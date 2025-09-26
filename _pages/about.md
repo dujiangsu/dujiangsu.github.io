@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am going to join School of Computer Science and Engineering at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) as an associate professor. My current research mainly focuses on Scalable and Efficient ML Inference/Training System through optimizing hardware operator, algorithm design, task scheduling, and resource management.
+Hi, I am an associate professor at School of Computer Science and Engineering of [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). My current research mainly focuses on Scalable and Efficient ML Inference/Training System through optimizing hardware operator, algorithm design, task scheduling, and resource management.
 
 I am looking for highly-motivated Master and PhD students, please email your CV to me if you are interested.
 
@@ -80,8 +80,24 @@ See [full publication list](https://scholar.google.com/citations?user=GayKRzEAAA
 - **[TPDS]** Rui Tian, Jiazhi Jiang, Jiangsu Du, Dan Huang, Yutong Lu, "Sophisticated Orchestrating Concurrent DLRM Training on CPU/GPU Platform".
 - **[TPDS]** Jiazhi Jiang, Jiangsu Du, Dan Huang, Zhiguang Chen, Yutong Lu, Xiangke Liao, "Full-Stack Optimizing Transformer Inference on ARM Many-Core CPU".
 
+## :student: Students
+- I am so glad to work with these outstanding students.
+### Non-Graduated
+- 2023级博士 韦媛馨 （co-supervised）
+- 2024级博士 张洪宾 （co-supervised）
+- 2024级博士 孟子怡 （co-supervised）
+- 2025级博士 石潇 （co-supervised）
 
+- 2024级硕士 孙莹莹
+- 2025级硕士 郑圳毅
+- 2025级硕士 刘慧敏
+- 2025级硕士 魏滔声
 
+### Graduated
+- 2022级本科生 [黄烨](https://yeyeah.life/) （北京大学读研）
+
+### Intern
+- 周煜辉
 <!-- [Google Scholar](https://scholar.google.com/citations?user=GayKRzEAAAAJ&hl=en&oi=ao) -->
 
 <!-- ## :newspaper: Professional Service
