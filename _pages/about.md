@@ -79,7 +79,7 @@ See [full publication list](https://scholar.google.com/citations?user=GayKRzEAAA
 - **[IOTJ]** Jiangsu Du, Yunfei Du, Dan Huang, Yutong Lu, and Xiangke Liao, "Enhancing Distributed In-Situ CNN Inference in the Internet of Things"
 - **[TPDS]** Rui Tian, Jiazhi Jiang, Jiangsu Du, Dan Huang, Yutong Lu, "Sophisticated Orchestrating Concurrent DLRM Training on CPU/GPU Platform".
 - **[TPDS]** Jiazhi Jiang, Jiangsu Du, Dan Huang, Zhiguang Chen, Yutong Lu, Xiangke Liao, "Full-Stack Optimizing Transformer Inference on ARM Many-Core CPU".
-
+<!--
 ## :student: Students
 - I am so glad to work with these outstanding students.
 ### Non-Graduated
@@ -98,6 +98,7 @@ See [full publication list](https://scholar.google.com/citations?user=GayKRzEAAA
 
 ### Intern
 - 周煜辉
+-->
 <!-- [Google Scholar](https://scholar.google.com/citations?user=GayKRzEAAAAJ&hl=en&oi=ao) -->
 
 <!-- ## :newspaper: Professional Service
