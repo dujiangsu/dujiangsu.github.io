@@ -13,7 +13,7 @@ I am looking for highly-motivated Master and PhD students, please email your CV 
 
 You can find my email address by clicking this button:
 
-<p>
+<!-- <p>
   <button id="btnShowEmail" onclick="
     const targetField = document.getElementById('display');
     const btnShowEmail = document.getElementById('btnShowEmail');
@@ -24,7 +24,7 @@ You can find my email address by clicking this button:
     btnShowEmail.style.display = 'none';
   ">Show Email Address</button><br>
   <span id="display"></span>
-</p>
+</p> -->
 
 
 <!-- You can find my [Technical Blog (Chinese)](https://www.zhihu.com/column/c_1408504261072695297) and [Travel Vlog](https://space.bilibili.com/480041276). -->

@@ -21,14 +21,14 @@ repository               : "dujiangsu/dujiangsu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile2.jpg"
   name             : "Jiangsu Du"
   pronouns         : # example: "she/her"  
-  bio              : "Seek New Memory, Feel Alive."
+  bio              : ""
   location         : "Guangzhou, China"
   employer         : "Sun Yat-sen University"
   uri              : # URL
-  email            : "" 
+  email            : "dujiangsu@mail.sysu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
