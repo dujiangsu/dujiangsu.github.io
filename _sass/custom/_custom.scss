@@ -14,3 +14,27 @@
   padding-left: 2rem;
   padding-right: 2rem;
 }
+
+
+// === Custom font families ===
+
+// Body and general text
+body {
+  font-family: 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
+}
+
+// Headings (titles, navigation, section headers)
+h1, h2, h3, h4, h5, h6,
+.site-title,
+.page__title,
+.sidebar,
+.nav__list {
+  font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif !important;
+  font-weight: 500;
+}
+
+// Captions or code comments (optional)
+figcaption, .caption, .page__footer {
+  font-family: 'Source Serif Pro', serif !important;
+  font-style: italic;
+}
