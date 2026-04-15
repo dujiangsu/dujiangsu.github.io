@@ -25,3 +25,15 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+
+about:
+  - title: "About"
+    children:
+      - title: "Education"
+        url: "#school-education"
+      - title: "News"
+        url: "#fire-news"
+      - title: "Publications"
+        url: "#blue_book-selected-publications"
+      - title: "Courses"
+        url: "#courses"

@@ -4,6 +4,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+sidebar:
+  nav: "about"
 ---
 
 I am an associate professor at the School of Computer Science and Engineering, Sun Yat-sen University. [Official Homepage](https://cse.sysu.edu.cn/teacher/3325). As a member of the Interdisciplinary Research Center (xRC), led by Prof. Yutong Lu and Prof. Nong Xiao, my research focuses on scalable and efficient computing systems for AI, HPC, and AI for Science, through innovations in hardware operator, task scheduling, resource management, and algorithm codesign.
