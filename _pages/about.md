@@ -19,15 +19,15 @@ I am looking for highly-motivated Undergraduate, Master and PhD students, please
 - B.Sc. in Spatial Information and Digital Technology, Wuhan University.
 
 ## :fire: News
-- [2025-08] Two Paper Accepted for ICCD 2025, congratualtions to Xiao Shi and Jinhui Wei.
+- [2025-08] Two Paper (Ghidorah and AuLoRA) Accepted for ICCD 2025, congratualtions to Xiao Shi and Jinhui Wei.
 - [2025-07] Receive offer from Sun Yat-sen University, join as an associate professor.
-- [2025-07] One Paper Accepted for ICPP 2025, congratualtions to Hongbin Zhang.
-- [2025-07] One Paper Accepted for SC 2025. 
-- [2025-01] One Paper Accepted For WWW 2025, congratulations to [Yuhao Gu](https://yhgu2000.github.io/).
+- [2025-07] One Paper (TD-Pipe) Accepted for ICPP 2025, congratualtions to Hongbin Zhang.
+- [2025-07] One Paper (coMtainer) Accepted for SC 2025. 
+- [2025-01] One Paper (ORFA) Accepted For WWW 2025, congratulations to [Yuhao Gu](https://yhgu2000.github.io/).
 - [2024-12] One Paper Accepted For TPDS.
-- [2024-12] One Paper accepted for VLDB 2025, congratulations to [Qingyin Lin](https://linqy71.github.io)!
-- [2024-10] One Paper accepted for ASPLOS 2025, congratulations to [Shenggan Cheng](https://shenggan.github.io/)!
-- [2024-04] One Paper accepted for SC 2024, congratulations to [Yuanxin Wei](https://yuanxinnn.github.io/)!
+- [2024-12] One Paper (IncrCP) accepted for VLDB 2025, congratulations to [Qingyin Lin](https://linqy71.github.io)!
+- [2024-10] One Paper (Concerto) accepted for ASPLOS 2025, congratulations to [Shenggan Cheng](https://shenggan.github.io/)!
+- [2024-04] One Paper (APTMoE) accepted for SC 2024, congratulations to [Yuanxin Wei](https://yuanxinnn.github.io/)!
 - [2023-11] One Paper accepted for PPoPP 2024.
 - [2021-10] Joined [LuChen](https://www.luchentech.com/) as a Research Intern, leading the large-scale Model Inference Project, [EnergonAI](https://github.com/hpcaitech/EnergonAI), cooperating with Jiarui Fang, Shenggan Cheng, and Ziming Liu.
 - [2021-06] Joined Tencent Shanghai, Visualization Group, as a Research Intern, working on technical verification of GPU pooling, mentored by [Song Jike](https://www.linkedin.com/in/albcamus/?originalSubdomain=cn) and Feng Kehuan.
