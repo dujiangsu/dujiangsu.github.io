@@ -12,22 +12,11 @@ redirect_from:
 
 ---
 
-I am an Associate Professor at the School of Computer Science and Engineering, Sun Yat-sen University, and a member of the Interdisciplinary Research Center (xRC) led by Prof. Yutong Lu and Prof. Nong Xiao. My research focuses on **scalable and efficient computing systems** for AI, HPC, and AI for Science, through innovations in hardware operator design, task scheduling, resource management, and algorithm–system codesign.
+I am an Associate Professor at the School of Computer Science and Engineering, Sun Yat-sen University, and a member of the Interdisciplinary Research Center (xRC) led by Prof. Yutong Lu and Prof. Nong Xiao. My research focuses on **scalable and efficient computing systems** for AI and HPC, through innovations in hardware operator design, task scheduling, resource management, and algorithm–system codesign.
 
-I currently serve as an Executive Member of the **High Performance Computing Technical Committee** and the **Storage Technical Committee** of the China Computer Federation (CCF). I have served on the program committees of HiPC, CCGrid, and HPC China, and as a reviewer for IEEE TC, IEEE TPDS, IEEE IOTJ, Journal of Supercomputing, Journal of Systems Architecture, CCF THPC, SC, and ICML.
+I currently serve as an Executive Member of the **High Performance Computing Technical Committee** and the **Storage Technical Committee** of the China Computer Federation (CCF). I have served on the program committees of HiPC, CCGrid, and HPC China, and as a reviewer for IEEE TC, IEEE TPDS, ACM TACO, IEEE IOTJ, Journal of Supercomputing, Journal of Systems Architecture, CCF THPC, SC, and ICML.
 
 **I am actively recruiting** highly motivated Ph.D., Master's, and undergraduate students. I maintain long-term research collaborations with Tencent and Alibaba Group on large language model and diffusion model systems, with research internship opportunities available. Please feel free to reach out via email with your CV.
-
----
-
-## :school: Education
-
-| Degree | Institution | Details |
-|:---|:---|:---|
-| Ph.D., Computer Science | Sun Yat-sen University | Advised by [Yutong Lu](https://baike.baidu.com/link?url=fcpCKn80OKYp5P7NydFvZux6Qq4MJGxKiByJ3QxbWjSHuuKimoERoOag4PT4f9vEfbgXHRXibHIko2r7wv2TiL_qes9_HtkgIBIXNFM-tZsBx-0uvjAcbLcuhFWeNX_S), [Xiangke Liao](https://www.cae.cn/cae/html/main/colys/68400379.html), and [Yunfei Du](https://baike.baidu.com/item/%E6%9D%9C%E4%BA%91%E9%A3%9E/23715232); National Supercomputer Center in Guangzhou |
-| Visiting Scholar | National University of Singapore | |
-| M.Sc., High Performance Computing and Data Science | University of Edinburgh | Edinburgh Parallel Computing Centre |
-| B.Sc., Spatial Information and Digital Technology | Wuhan University | |
 
 ---
 
@@ -53,7 +42,6 @@ I currently serve as an Executive Member of the **High Performance Computing Tec
 
 #### Conference Papers
 
-- **[OSDI 2026]** <span style="color:#cc0000;">[CCF-A]</span> Hongbin Zhang, Taosheng Wei, Zhenyi Zheng, et al., "EcoServe: ..." *(Conditionally Accepted)*
 - **[VLDB 2025]** <span style="color:#cc0000;">[CCF-A]</span> Qingyin Lin, **Jiangsu Du**\*, Rui Li, Zhiguang Chen, Wenguang Chen, and Nong Xiao, "IncrCP: Decomposing and Orchestrating Incremental Checkpoints for Effective Recommendation Model Training."
 - **[ICPP 2025]** <span style="color:#cc0000;">[CCF-B]</span> Hongbin Zhang, Taosheng Wei, Zhenyi Zheng, **Jiangsu Du**\*, Zhiguang Chen\*, and Yutong Lu, "TD-Pipe: Temporally-Disaggregated Pipeline Parallelism Architecture for High-Throughput LLM Inference."
 - **[ICCD 2025]** <span style="color:#cc0000;">[CCF-B]</span> Jinhui Wei, Ye Huang, Yuhui Zhou, Jiazhi Jiang, **Jiangsu Du**\*, Hongbin Zhang, Taosheng Wei, Zhenyi Zheng, Zhiguang Chen, and Yutong Lu, "Ghidorah: Fast LLM Inference on Edge with Speculative Decoding and Hetero-Core Parallelism."
@@ -87,3 +75,14 @@ I currently serve as an Executive Member of the **High Performance Computing Tec
 | Year | Course |
 |:---|:---|
 | 2025 Fall – Present | **Principles of Computer Organization** （计算机组成原理） |
+
+---
+
+## :school: Education
+
+| Degree | Institution | Details |
+|:---|:---|:---|
+| Ph.D., Computer Science | Sun Yat-sen University | Advised by [Yutong Lu](https://baike.baidu.com/link?url=fcpCKn80OKYp5P7NydFvZux6Qq4MJGxKiByJ3QxbWjSHuuKimoERoOag4PT4f9vEfbgXHRXibHIko2r7wv2TiL_qes9_HtkgIBIXNFM-tZsBx-0uvjAcbLcuhFWeNX_S), [Xiangke Liao](https://www.cae.cn/cae/html/main/colys/68400379.html), and [Yunfei Du](https://baike.baidu.com/item/%E6%9D%9C%E4%BA%91%E9%A3%9E/23715232) |
+| Visiting Scholar | National University of Singapore | |
+| M.Sc., High Performance Computing and Data Science | University of Edinburgh | Edinburgh Parallel Computing Centre |
+| B.Sc., Spatial Information and Digital Technology | Wuhan University | |
