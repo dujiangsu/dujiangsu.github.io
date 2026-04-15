@@ -8,9 +8,15 @@ sidebar:
   nav: "about"
 ---
 
-I am an associate professor at the School of Computer Science and Engineering, Sun Yat-sen University. [Official Homepage](https://cse.sysu.edu.cn/teacher/3325). As a member of the Interdisciplinary Research Center (xRC), led by Prof. Yutong Lu and Prof. Nong Xiao, my research focuses on scalable and efficient computing systems for AI, HPC, and AI for Science, through innovations in hardware operator, task scheduling, resource management, and algorithm codesign.
+**Associate Professor** \
+School of Computer Science and Engineering \
+Sun Yat-sen University (SYSU)
 
-I am looking for highly-motivated Undergraduate, Master and PhD students, please email me your CV if you are interested.
+I am an associate professor at the School of Computer Science and Engineering, Sun Yat-sen University. [Official Homepage](https://cse.sysu.edu.cn/teacher/3325). As a member of the Interdisciplinary Research Center (xRC), led by Prof. Yutong Lu and Prof. Nong Xiao, my research focuses on scalable and efficient computing systems for AI and HPC, through innovations in hardware operator, task scheduling, resource management, and algorithm codesign.
+
+I currently serve as an Executive Member of both the High Performance Computing Technical Committee and the Storage Technical Committee of the China Computer Federation (CCF). I have had the opportunity to contribute as a program committee member for conferences including HiPC, CCGrid, and HPC China. I have also served as a reviewer for journals and conferences such as IEEE Transactions on Computers (TC), IEEE Transactions on Parallel and Distributed Systems (TPDS), IEEE Internet of Things Journal (IOTJ), Journal of Supercomputing, Journal of Systems Architecture, CCF Transactions on High Performance Computing, as well as major conferences including SC Conference and ICML.
+
+I am looking for highly-motivated Undergraduate, Master and PhD students, please email me your CV if you are interested. I maintain long-term research collaborations with leading industry partners, including Tencent and Alibaba Group, in the areas of large language model and diffusion model systems. Research internship opportunities may be available through these collaborations.
 
 ## :school: Education
 - Ph.D in Computer Science, Sun Yat-sen University (National SuperComputer Center in Guangzhou), advised by [Yutong Lu](https://baike.baidu.com/link?url=fcpCKn80OKYp5P7NydFvZux6Qq4MJGxKiByJ3QxbWjSHuuKimoERoOag4PT4f9vEfbgXHRXibHIko2r7wv2TiL_qes9_HtkgIBIXNFM-tZsBx-0uvjAcbLcuhFWeNX_S), [Xiangke Liao](https://www.cae.cn/cae/html/main/colys/68400379.html) and [Yunfei Du](https://baike.baidu.com/item/%E6%9D%9C%E4%BA%91%E9%A3%9E/23715232).
@@ -19,6 +25,7 @@ I am looking for highly-motivated Undergraduate, Master and PhD students, please
 - B.Sc. in Spatial Information and Digital Technology, Wuhan University.
 
 ## :fire: News
+- [2026-04] One Paper (EcoServe) Conditionally Accepted for OSDI 2026, congratualtions to Hongbin Zhang, Taosheng Wei and Zhenyi Zheng.
 - [2025-08] Two Paper (Ghidorah and AuLoRA) Accepted for ICCD 2025, congratualtions to Xiao Shi and Jinhui Wei.
 - [2025-07] Receive offer from Sun Yat-sen University, join as an associate professor.
 - [2025-07] One Paper (TD-Pipe) Accepted for ICPP 2025, congratualtions to Hongbin Zhang.
