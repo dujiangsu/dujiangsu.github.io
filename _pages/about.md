@@ -4,8 +4,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-sidebar:
-  nav: "about"
 ---
 
 **Associate Professor** \
@@ -75,7 +73,7 @@ Speculative Decoding and Hetero-Core Parallelism".
 - **[TPDS]** <span style="color:red;">[CCF-A]</span> Jiazhi Jiang, Jiangsu Du, Dan Huang, Zhiguang Chen, Yutong Lu, Xiangke Liao, "Full-Stack Optimizing Transformer Inference on ARM Many-Core CPU".
 
 
-# 📚 Courses
+## Courses
 
 - 2025.9 - Now, **Principles of Computer Organization** `《计算机组成原理》`
 
