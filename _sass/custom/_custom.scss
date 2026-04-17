@@ -1,9 +1,11 @@
 // === Fix sidebar / content gap ===
 @include breakpoint($large) {
   .page {
-    margin-left: 220px;
-    width: auto;
-    float: none;
+    float: none !important;
+    width: auto !important;
+    padding-left: 0 !important;
+    margin-left: 230px !important;
+    margin-right: 0 !important;
   }
 }
 
