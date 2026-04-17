@@ -1,3 +1,11 @@
+// === Fix sidebar / content gap ===
+@include breakpoint($large) {
+  .page {
+    margin-left: 220px;
+    width: auto;
+    float: none;
+  }
+}
 
 // === Custom font families ===
 
