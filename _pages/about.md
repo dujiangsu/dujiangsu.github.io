@@ -44,7 +44,7 @@ I currently serve as an Executive Member of the **High Performance Computing Tec
 \* denotes corresponding author. † denotes equal contribution. See [full list on Google Scholar](https://scholar.google.com/citations?user=GayKRzEAAAAJ&hl=en&oi=ao).
 
 #### Conference Papers
-- **[PPoPP 2027]** <span style="color:#cc0000;">[CCF-A]</span> Taosheng Wei, Hongbin Zhang, Jiazhi Jiang, Zhiguang Chen, **Jiangsu Du**\*, **Yutong Lu**\*, "PipeSP: Near-zero Communication Overhead in LLM Prefill with Pipelined Sequence Parallelism."
+- **[PPoPP 2027]** <span style="color:#cc0000;">[CCF-A]</span> Taosheng Wei, Hongbin Zhang, Jiazhi Jiang, Zhiguang Chen, **Jiangsu Du**\*, Yutong Lu\*, "PipeSP: Near-zero Communication Overhead in LLM Prefill with Pipelined Sequence Parallelism."
 - **[ASPLOS 2027]** <span style="color:#cc0000;">[CCF-A]</span> Yuhai Long, Yuanxin Wei, Kai Wu, Jinhui Wei, Dan Huang, **Jiangsu Du**\*, "EdgeAgent: Orchestrating On-Device LLM inference for End-User Multi-Agent Systems on CPU-GPU Unified Memory Architectures."
 - **[OSDI 2026]** <span style="color:#cc0000;">[CCF-A]</span> **Jiangsu Du**, Hongbin Zhang†, Taosheng Wei, Zhenyi Zheng, Jiazhi Jiang, Kaiyi Wu, Zhiguang Chen, and Yutong Lu, "Efficient LLM Serving on Commodity GPU Clusters with Data-Reduced Cross-Instance Orchestration."
 - **[VLDB 2025]** <span style="color:#cc0000;">[CCF-A]</span> Qingyin Lin, **Jiangsu Du**\*, Rui Li, Zhiguang Chen, Wenguang Chen, and Nong Xiao, "IncrCP: Decomposing and Orchestrating Incremental Checkpoints for Effective Recommendation Model Training."
